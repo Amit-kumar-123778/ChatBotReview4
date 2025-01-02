@@ -1,0 +1,1 @@
+This project implements a chatbot that can interact with users, answer frequently asked questions, and perform simple tasks like weather updates, news summaries, and more. Built using natural language processing (NLP) techniques, this bot can understand and respond to user queries effectively.
